@@ -1,0 +1,334 @@
+[
+  
+  {
+  "id": 1,
+  "title": "iPhone X",
+  "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with....",
+  "price":  15.94,
+  "discountPercentage": 17.94,
+  "rating": 4.44,
+  "stock": 34,
+  "brand": "Apple",
+  "category": "smartphones",
+  "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+  "images": [
+  "https://i.dummyjson.com/data/products/2/1.jpg"
+
+  ]
+  },
+  {
+  "id": 2,
+  "title": "Samsung Universe 9",
+  "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+  "price": 18.98,
+  "discountPercentage": 15.46,
+  "rating": 4.09,
+  "stock": 36,
+  "brand": "Samsung",
+  "category": "smartphones",
+  "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+  "images": [
+  "https://i.dummyjson.com/data/products/3/1.jpg"
+  ]
+  },
+  {
+  "id": 3,
+  "title": "OPPOF19",
+  "description": "OPPO F19 is officially announced on April 2021.",
+  "price": 22.53,
+  "discountPercentage": 17.91,
+  "rating": 4.3,
+  "stock": 123,
+  "brand": "OPPO",
+  "category": "smartphones",
+  "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+  "images": [
+
+  "https://i.dummyjson.com/data/products/4/2.jpg"
+
+  ]
+  },
+
+  {
+  "id": 4,
+  "title": "MacBook Pro",
+  "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+  "price": 15.34,
+  "discountPercentage": 11.02,
+  "rating": 4.57,
+  "stock": 83,
+  "brand": "Apple",
+  "category": "laptops",
+  "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+  "images": [
+  "https://i.dummyjson.com/data/products/6/1.png"
+
+  ]
+  },
+  {
+  "id": 5,
+  "title": "Samsung Galaxy Book",
+  "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip...",
+  "price": 10.43,
+  "discountPercentage": 4.15,
+  "rating": 4.25,
+  "stock": 50,
+  "brand": "Samsung",
+  "category": "laptops",
+  "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+  "images": [
+  "https://i.dummyjson.com/data/products/7/1.jpg"
+  ]
+
+  },
+  {
+  "id": 6,
+  "title": "Microsoft Surface Laptop 4",
+  "description": "Style and speed. Stand out on HD video calls backed by Studio Mics...",
+  "price": 14.34,
+  "discountPercentage": 10.23,
+  "rating": 4.43,
+  "stock": 68,
+  "brand": "Microsoft Surface",
+  "category": "laptops",
+  "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+  "images": [
+ 
+  "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+  ]
+  },
+  {
+  "id": 7,
+  "title": "Infinix INBOOK",
+  "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+  "price": 12.34,
+  "discountPercentage": 11.83,
+  "rating": 4.54,
+  "stock": 96,
+  "brand": "Infinix",
+  "category": "laptops",
+  "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+  "images": [
+  "https://i.dummyjson.com/data/products/9/1.jpg"
+ 
+  ]
+  },
+
+  {
+  "id": 8,
+  "title": "perfume Oil",
+  "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar...",
+  "price": 12.34,
+  "discountPercentage": 8.4,
+  "rating": 4.26,
+  "stock": 65,
+  "brand": "Impression of Acqua Di Gio",
+  "category": "fragrances",
+  "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+  "images": [
+
+  "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+  ]
+  },
+  {
+  "id": 9,
+  "title": "Brown Perfume",
+  "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+  "price": 19.53,
+  "discountPercentage": 15.66,
+  "rating": 4,
+  "stock": 52,
+  "brand": "Royal_Mirage",
+  "category": "fragrances",
+  "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+  "images": [
+
+  "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+  ]
+  },
+  {
+  "id": 11,
+  "title": "Fog Scent Xpressio Perfume",
+  "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men...",
+  "price": 24.4,
+
+  "discountPercentage": 8.14,
+  "rating": 4.59,
+  "stock": 61,
+  "brand": "Fog Scent Xpressio",
+  "category": "fragrances",
+  "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
+  "images": [
+ 
+  "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+  ]
+  },
+
+  {
+  "id": 12,
+  "title": "Eau De Perfume Spray",
+  "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+  "price": 30,
+  "discountPercentage": 10.99,
+  "rating": 4.7,
+  "stock": 105,
+  "brand": "Lord - Al-Rehab",
+  "category": "fragrances",
+  "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+  "images": [
+
+  "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+  ]
+  },
+  {
+  "id": 13,
+  "title": "Hyaluronic Acid Serum",
+  "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum...",
+  "price": 19,
+  "discountPercentage": 13.31,
+  "rating": 4.83,
+  "stock": 110,
+  "brand": "L'Oreal Paris",
+  "category": "skincare",
+  "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+  "images": [
+
+  "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+  ]
+  },
+  {
+  "id": 14,
+  "title": "Tree Oil 30ml",
+  "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol...",
+  "price": 12,
+  "discountPercentage": 4.09,
+  "rating": 4.52,
+  "stock": 78,
+  "brand": "Hemani Tea",
+  "category": "skincare",
+  "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+  "images": [
+  
+  "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+  ]
+  },
+
+  {
+  "id": 15,
+  "title": "Skin Beauty Serum.",
+  "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+  "price": 12.42,
+  "discountPercentage": 10.68,
+  "rating": 4.42,
+  "stock": 54,
+  "brand": "ROREC White Rice",
+  "category": "skincare",
+  "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+  "images": [
+
+  "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
+  ]
+  },
+
+  {
+  "id": 16,
+  "title": "- Daal Masoor 500 grams",
+  "description": "Fine quality Branded Product Keep in a cool and dry place",
+  "price": 6.55,
+  "discountPercentage": 4.81,
+  "rating": 4.44,
+  "stock": 133,
+  "brand": "Saaf & Khaas",
+  "category": "groceries",
+  "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png",
+  "images": [
+ 
+  "https://i.dummyjson.com/data/products/21/3.jpg"
+  ]
+  },
+
+  {
+  "id": 17,
+  "title": "Orange Essence Food Flavou",
+  "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+  "price": 14,
+  "discountPercentage": 8.04,
+  "rating": 4.85,
+  "stock": 26,
+  "brand": "Baking Food Items",
+  "category": "groceries",
+  "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+  "images": [
+  "https://i.dummyjson.com/data/products/23/1.jpg"
+ 
+  ]
+  },
+
+  {
+  "id": 18,
+  "title": "Gulab Powder 50 Gram",
+  "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+  "price": 15.53,
+  "discountPercentage": 13.58,
+  "rating": 4.87,
+  "stock": 47,
+  "brand": "Dry Rose",
+  "category": "groceries",
+  "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+  "images": [
+ 
+  "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
+  ]
+  },
+  {
+  "id": 19,
+  "title": "Plant Hanger For Home",
+  "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+  "price": 20.53,
+  "discountPercentage": 17.86,
+  "rating": 4.08,
+  "stock": 131,
+  "brand": "Boho Decor",
+  "category": "home-decoration",
+  "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+  "images": [
+  "https://i.dummyjson.com/data/products/26/1.jpg"
+
+  ]
+  },
+  {
+  "id": 20,
+  "title": "Flying Wooden Bird",
+  "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+  "price": 20.54,
+  "discountPercentage": 15.58,
+  "rating": 4.41,
+  "stock": 17,
+  "brand": "Flying Wooden",
+  "category": "home-decoration",
+  "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.webp",
+  "images": [
+  "https://i.dummyjson.com/data/products/27/1.jpg"
+
+  ]
+  },
+
+  {
+  "id": 21,
+  "title": "Handcraft Chinese style",
+  "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+  "price": 60.53,
+  "discountPercentage": 15.34,
+  "rating": 4.44,
+  "stock": 7,
+  "brand": "luxury palace",
+  "category": "home-decoration",
+  "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.webp",
+  "images": [
+  "https://i.dummyjson.com/data/products/29/1.jpg"
+  ]
+
+  }
+
+  ]
+ 

@@ -1,0 +1,41 @@
+*{
+  font-family: sans-serif;
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+}
+.btn1{
+  display:block;
+  position: relative;
+  left: 12rem;
+}
+input:focus{
+  outline: none;
+}
+.card-all{
+  box-shadow:  0 0 0 2px rgb(255, 255, 255),
+  0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+@media only screen and (max-width:768px) {
+  .card-all{
+    
+      width: 25rem;
+      height: 26rem;
+  }
+  .header-1{
+    display: none;
+  }
+  .logo-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .logo{
+    width: 12rem;
+    height: 6rem;
+    position: relative;
+    right: 5rem;
+    border-bottom: 2px solid gray;
+  }
+}
